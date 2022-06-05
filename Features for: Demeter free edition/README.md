@@ -18,12 +18,8 @@ Please keep in mind that these are simple features with little upkeep. Demeter f
 * [Expose Murder]()
 * [Expose Sherif]()
 
-###
-
-
-
-###
-
-
-
-###
+### Arsenal
+* [No Recoil]()
+* [BHop]()
+* [Rainbow Gun]()
+* [Inf Ammo]()
