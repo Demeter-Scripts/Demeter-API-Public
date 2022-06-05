@@ -1,7 +1,7 @@
 # api:MurderMystery_FreeEmotes(EmoteName)
 ### About feature
 ```
-Jailbreak_VehicleMods is a feature that changes the value of the vehicle modification such as suspension height or engine speed
+MurderMystery_FreeEmotes is a feature lets you use any animation for free in Murder Mystery 2
 ```
 ### args definition
 ```lua
