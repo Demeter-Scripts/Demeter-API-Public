@@ -5,7 +5,7 @@ Please keep in mind that these are simple features with little upkeep. Demeter f
 ```
 ### Universal
 
-* [GotoPlayer](https://github.com/Demeter-API/Demeter-API-Public/blob/main/Features/Universal/GotoPlayer.md) 
+* [GotoPlayer](https://github.com/Demeter-API/Demeter-API-Public/blob/main/Features%20for:%20Demeter%20free%20edition/Universal/GotoPlayer.md) 
 * [ClientBringPlayer]()
 * [Chat]()
 * [Noclip]()
